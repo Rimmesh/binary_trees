@@ -1,3 +1,3 @@
-O(h), where h is the height of the tree
-O(h), where h is the height of the tree
-O(h), where h is the height of the tree
+O(log n) on average, but O(n) in the worst case if the tree becomes unbalanced
+O(log n) on average, but O(n) in the worst case if the tree becomes unbalanced
+O(log n) on average, but O(n) in the worst case if the tree becomes unbalanced
