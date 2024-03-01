@@ -1,3 +1,3 @@
-O(log n) on average, but O(n) in the worst case if the tree becomes unbalanced
-O(log n) on average, but O(n) in the worst case if the tree becomes unbalanced
-O(log n) on average, but O(n) in the worst case if the tree becomes unbalanced
+O(log n)
+O(log n)
+O(log n)
